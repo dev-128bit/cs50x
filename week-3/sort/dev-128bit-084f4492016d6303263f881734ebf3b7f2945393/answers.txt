@@ -1,0 +1,65 @@
+sort1 uses: Bubble Sort
+
+How do you know?:
+    - The 'sort1' sorts the random5000.txt values under 0.060259 seconds, as I used python's 'time' module to compute the start and end times.
+    - By using that, I confirmed the 'sort1' has significantly higher compute time when compared to others.
+    - The higher compute time expresses that there are significant amount of comparisons made that slowed the system.
+    - With comparision among sorting techniques (Merge, Bubble, Selection Sorts), the bubble sort is the slowest and requires large compute time.
+    - So I decided that 'sort1' uses the Bubble Sort technique.
+
+sort2 uses: Merge Sort
+
+How do you know?:
+    - The 'sort2' sorts the random5000.txt values under 0.031762 seconds, as I used python's 'time' module to compute.
+    - Compared to the 'sort1' and 'sort3', the 'sort2' compute time is very low.
+    - As the compute time describes the low value when compared to others, I decided it would be merge sort.
+    - The Merge Sort uses the divide and conquer rule to sort the un-sorted values, which significantly increases the time efficiency.
+    - As the Merge sort has O(n log n) time complexity, this explains why 'sort2' is significantly fast. Hence, it is Merge Sort.
+
+sort3 uses: Selection Sort
+
+How do you know?:
+    - The 'sort3' sorts the random5000.txt values under 0.043922 seconds, again with python's 'time' module to compute.
+    - Compared to the 'sort1', the 'sort3' performs a bit faster. When compared to 'sort2', the 'sort3' performs a bit slower.
+    - By this 'sort3' stands between 'sort2' and 'sort1'.
+    - As the both 'sort2' and 'sort1' are already decided and the remaining sorting technique is Selection Sort.
+    - The Selection Sort is slower than Merge Sort and it is faster than Bubble Sort.
+    - The Selection Sort involves less swapping operations when compared to bubble sort. As this explains the Selection Sort performs better than Bubble Sort.
+    - Thus proving the 'sort3' uses Selection Sort.
+
+Observations Made using Python:
+./sort1 random5000.txt 0.067478 seconds.
+./sort2 random5000.txt 0.028756 seconds.
+./sort3 random5000.txt 0.069019 seconds.
+
+./sort1 random10000.txt 0.192578 seconds.
+./sort2 random10000.txt 0.071335 seconds.
+./sort3 random10000.txt 0.165545 seconds.
+
+./sort1 random50000.txt 5.666222 seconds.
+./sort2 random50000.txt 0.445916 seconds.
+./sort3 random50000.txt 2.217255 seconds.
+
+./sort1 reversed5000.txt 0.094344 seconds.
+./sort2 reversed5000.txt 0.037036 seconds.
+./sort3 reversed5000.txt 0.069992 seconds.
+
+./sort1 reversed10000.txt 0.237834 seconds.
+./sort2 reversed10000.txt 0.078892 seconds.
+./sort3 reversed10000.txt 0.168832 seconds.
+
+./sort1 reversed50000.txt 4.966501 seconds.
+./sort2 reversed50000.txt 0.501125 seconds.
+./sort3 reversed50000.txt 2.499281 seconds.
+
+./sort1 sorted5000.txt 0.021590 seconds.
+./sort2 sorted5000.txt 0.032355 seconds.
+./sort3 sorted5000.txt 0.074324 seconds.
+
+./sort1 sorted10000.txt 0.061107 seconds.
+./sort2 sorted10000.txt 0.100586 seconds.
+./sort3 sorted10000.txt 0.156478 seconds.
+
+./sort1 sorted50000.txt 0.486881 seconds.
+./sort2 sorted50000.txt 0.471236 seconds.
+./sort3 sorted50000.txt 2.388826 seconds.
