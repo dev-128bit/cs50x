@@ -1,16 +1,4 @@
 # CS50X - 2025 & 2026
 ## CS50X: Introduction to Computer Science: Coursework Solutions and Final Project
 
-[![Course](https://img.shields.io/badge/Course-CS50_X-blue)](https://cs50.harvard.edu/x)
-
-[![Language](https://img.shields.io/badge/Language-C-blue)]() [![Programming](https://img.shields.io/badge/Programming-C-00599C?logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-
-[![Language](https://img.shields.io/badge/Language-Python-yellow)]() [![Backend](https://img.shields.io/badge/Backend-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-
-[![Language](https://img.shields.io/badge/Language-SQL-orange)]() [![Database](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-
-[![Language](https://img.shields.io/badge/Language-HTML-red)]() [![Markup](https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-[![Language](https://img.shields.io/badge/Language-CSS-blueviolet)]() [![Style](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[![Language](https://img.shields.io/badge/Language-JavaScript-yellowgreen)]() [![Frontend](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Course](https://img.shields.io/badge/Course-CS50_X-blue)](https://cs50.harvard.edu/x) [![Language](https://img.shields.io/badge/Language-C-blue)]() [![Programming](https://img.shields.io/badge/Programming-C-00599C?logo=c&logoColor=white)](https://en.cppreference.com/w/c) [![Language](https://img.shields.io/badge/Language-Python-yellow)]() [![Backend](https://img.shields.io/badge/Backend-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Language](https://img.shields.io/badge/Language-SQL-orange)]() [![Database](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![Language](https://img.shields.io/badge/Language-HTML-red)]() [![Markup](https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![Language](https://img.shields.io/badge/Language-CSS-blueviolet)]() [![Style](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Language](https://img.shields.io/badge/Language-JavaScript-yellowgreen)]() [![Frontend](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
