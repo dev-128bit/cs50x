@@ -15,4 +15,9 @@ This repository contains my solutions for the weekly problem sets and the link t
 
 ### [Problem Set - 1](./week-1)
 
-1. [**cash-or-credit**]
+1. [**cash-or-credit**](./week-1/cash-or-credit)
+2. [**hello,me**](./week-1/hello,me)
+3. [**mario-less**](./week-1/mario-less)
+4. [**mario-more**](./week-1/mario-more)
+
+### [Problem Set - 2](./week-2)
