@@ -27,3 +27,9 @@ This repository contains my solutions for the weekly problem sets and the link t
 3. [**scrabble**](./week-2/scrabble)
 4. [**substitution**](./week-2/substitution)
 
+### [Problem Set - 3](./week-3)
+
+1. [**plurality**](./week-3/plurality)
+2. [**runoff**](./week-3/runoff)
+3. [**sort**](./week-3/sort)
+
