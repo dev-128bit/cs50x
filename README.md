@@ -5,3 +5,14 @@
 
 ## Introduction
 This repository contains my solutions for the weekly problem sets and the link to the final project (on progress) for Harvard University's CS50x Computer Science course. It demonstrates various concepts learned throughout the course, including algorithmic problem solving, data structures, database integration, full-stack web development, and software design across multiple languages like C, Python, SQL, and JavaScript.
+
+
+## Weekly Assignments or Problem Sets 📒
+
+### [Problem Set - 0](./week-0)
+
+1. [**Scratch**](./week-0/scratch)
+
+### [Problem Set - 1](./week-1)
+
+1. [**cash-or-credit**]
