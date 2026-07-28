@@ -21,3 +21,9 @@ This repository contains my solutions for the weekly problem sets and the link t
 4. [**mario-more**](./week-1/mario-more)
 
 ### [Problem Set - 2](./week-2)
+
+1. [**caesar**](./week-2/caesar)
+2. [**readability**](./week-2/readability)
+3. [**scrabble**](./week-2/scrabble)
+4. [**substitution**](./week-2/substitution)
+
